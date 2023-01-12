@@ -7,7 +7,7 @@
   <a href="https://github.com/miguel-navas">
   <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true"/>
   <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&layout=compact&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
   </a>
 </div>
 
