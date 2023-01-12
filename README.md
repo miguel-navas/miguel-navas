@@ -9,7 +9,7 @@
   
   <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&theme=dark"/>
     
   </a>
 </div>
