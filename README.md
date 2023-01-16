@@ -3,7 +3,7 @@
 - 😄 Pronouns: ele/dele
 - 🔭 I’m currently working on C# Software Developer
 - 🌱 I’m currently learning English and AI
-- 
+
 <div align="center">
   <a href="https://github.com/miguel-navas">
   <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
