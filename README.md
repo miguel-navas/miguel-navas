@@ -12,7 +12,6 @@
  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
   </a>
 </div>
-
 <h2>Skills</h2>
 <div>
   <h3>Front-end</h3>
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>  
-
 <div>
   <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -32,15 +30,13 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitewhite">
 </div>  
-
-<div style="display: inline_block">
+<div>
   <h3>Mobile</h3>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>  
-
-<div style="display: inline_block">
+<div>
   <h3>Banco de dados</h3>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -49,11 +45,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
-<hr>
-<div style="display: inline_block">
-  <h3>Rede social</h3>
-  <a href="https://www.linkedin.com/in/miguel-fernando-navas-25303628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+
+<h2>Rede social</h2>
+<a href="https://www.linkedin.com/in/miguel-fernando-navas-25303628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 <!--
