@@ -1,15 +1,18 @@
-## Olá, eu sou Miguel Fernando
+# Hi, welcome! <img src="https://user-images.githubusercontent.com/121520973/213878297-abc2d0c6-84ee-497a-9bf2-34e919928924.png" width="30px"/><img src="https://user-images.githubusercontent.com/121520973/213878525-0f87e97c-cb68-44e6-8c26-ff93d20ed5f8.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878664-f9117b98-65ae-4e35-987c-f1d50a4b4e46.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878687-61ff24ba-98e8-443f-aa9f-5502d80aa8d9.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878703-6d9e3028-145d-44a3-8f66-b32f093f943e.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878745-f7570c79-2697-4ace-adc0-bd621721545c.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878825-6e6da181-2093-4d30-9cb7-7c5f65817fda.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878879-f022b345-0de2-4fb4-a770-c1f1373b3b11.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213879661-0603307a-bc7c-4429-b6d1-154a8aa04f18.png" width="30px">
 
-- 😄 Pronouns: ele/dele
-- 🔭 I’m currently working on C# Software Developer
+
+- 😄 Pronouns: him/his
+- 🔭 I’m currently working as a C# Software Developer
 - 🌱 I’m currently learning English and AI
+- 🔪 My hobby is cooking
+- 🎸 I'm a guitar player
 
 <div align="center">
   <a href="https://github.com/miguel-navas">
   <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=dark"/>  
   
- <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
+ <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
   </a>
 </div>
 <h2>Skills</h2>
