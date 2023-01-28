@@ -13,6 +13,9 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=dark"/>  
   
  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
+ <div style="width:10px; border:1px solid #FFFFFF">
+ <img height="180em" src="https://github.com/miguel-navas/miguel-navas/blob/main/miguel-navas_cartoon.png"/>
+ </div>
   </a>
 </div>
 <h2>Skills</h2>
