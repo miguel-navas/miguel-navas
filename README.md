@@ -8,9 +8,9 @@
 - 🎸 I'm a guitar player
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="http://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=dark"/>  
+  <img height="180em" src="http://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=dark"/>  
   
  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
