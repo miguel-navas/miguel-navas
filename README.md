@@ -130,8 +130,8 @@ mission:   Turn data and ideas into intelligent software
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A6FF00&icon_color=FFD400&text_color=E6EAF0&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A6FF00&text_color=E6EAF0"/>
+<img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
+<img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=miguel-navas&theme=tokyonight&hide_border=true&background=0D1117&ring=A6FF00&fire=FF5A1F&currStreakLabel=A6FF00&date_format=j%20M%5B%20Y%5D"/>
 
