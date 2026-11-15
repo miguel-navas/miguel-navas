@@ -1,72 +1,155 @@
-# Hi, welcome! <img src="https://user-images.githubusercontent.com/121520973/213878297-abc2d0c6-84ee-497a-9bf2-34e919928924.png" width="30px"/><img src="https://user-images.githubusercontent.com/121520973/213878525-0f87e97c-cb68-44e6-8c26-ff93d20ed5f8.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213880242-806adb03-6d13-4218-be76-85ce1d07846c.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213880490-8d859294-63c0-481d-905a-f666b065d8ed.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878664-f9117b98-65ae-4e35-987c-f1d50a4b4e46.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878687-61ff24ba-98e8-443f-aa9f-5502d80aa8d9.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878703-6d9e3028-145d-44a3-8f66-b32f093f943e.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878745-f7570c79-2697-4ace-adc0-bd621721545c.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878825-6e6da181-2093-4d30-9cb7-7c5f65817fda.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213878879-f022b345-0de2-4fb4-a770-c1f1373b3b11.png" width="30px"><img src="https://user-images.githubusercontent.com/121520973/213879661-0603307a-bc7c-4429-b6d1-154a8aa04f18.png" width="30px">
-
-
-- 😄 Pronouns: him/his
-- 🔭 I’m currently working as a C# Software Developer
-- 🌱 I’m currently learning English and AI
-- 🔪 My hobby is cooking
-- 🎸 I'm a guitar player
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  miguel-navas :: PROFILE.SYS  //  v2.2                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img height="180em" src="http://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  
-  <img height="180em" src="http://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=dark"/>  
-  
- <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=miguel-navas&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&sideNums=DD2727"/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-  <img height="180em" src="https://github.com/miguel-navas/miguel-navas/blob/main/miguel-navas_cartoon.png"/>
- </div>
 
-<h2>Skills</h2>
-<div>
-  <h3>Front-end</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>  
-<div>
-  <h3>Back-end</h3>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitewhite">
-</div>  
-<div>
-  <h3>Mobile</h3>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>  
-<div>
-  <h3>Banco de dados</h3>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:1F6B1C,100:A6FF00&height=220&section=header&text=MIGUEL%20NAVAS&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=C%23%20Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Agent%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A6FF00&center=true&vCenter=true&width=720&lines=%3E+initializing+developer_profile...;%3E+stack%3A+.NET+%7C+Angular+%7C+Flutter+%7C+SQL;%3E+loading+module%3A+AI+%26+Autonomous+Agents;%3E+status%3A+building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-A6FF00?style=for-the-badge&labelColor=0D1117)
+![Role](https://img.shields.io/badge/ROLE-C%23_DEVELOPER-E6EAF0?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/FOCUS-AI_%26_AGENTS-FFD400?style=for-the-badge&labelColor=0D1117)
+![Pronouns](https://img.shields.io/badge/PRONOUNS-HIM%2FHIS-FF5A1F?style=for-the-badge&labelColor=0D1117)
+
 </div>
 
-<h2>Rede social</h2>
-<a href="https://www.linkedin.com/in/miguel-fernando-navas-25303628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+---
 
+## `> whoami`
 
-<!--
-**miguel-navas/miguel-navas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+# profile.yml
+name:      Miguel Navas
+pronouns:  him/his
+role:      C# Software Developer
+languages: [Portuguese, English (learning)]
+learning:  [Artificial Intelligence, English]
+hobbies:   [Cooking, Guitar]
+mission:   Turn data and ideas into intelligent software
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## `> system.architecture`
 
-- ⚡ Fun fact: ...
--->
+```text
+ ┌──────────────────────┐        ┌──────────────────────┐
+ │  FRONT-END           │        │  MOBILE              │
+ │  Angular · TS · JS   │        │  Flutter · RN        │
+ └──────────┬───────────┘        └──────────┬───────────┘
+            │                               │
+            └───────────────┬───────────────┘
+                            ▼
+                ┌──────────────────────┐        ┌──────────────────────┐
+                │  API LAYER           │ ─────► │  AI AGENTS           │
+                │  .NET · C#           │        │  data collection     │
+                └──────────┬───────────┘        └──────────┬───────────┘
+                           │                               │
+                           └───────────────┬───────────────┘
+                                           ▼
+                        ┌────────────────────────────────────┐
+                        │  DATABASES                         │
+                        │  SQL Server · PostgreSQL · MongoDB │
+                        └────────────────────────────────────┘
+```
+
+---
+
+## `> stack --list`
+
+### 🖥️ Front-end
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+
+### ⚙️ Back-end
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/> <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+
+### 📱 Mobile
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2"/> <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/> <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+
+### 🧠 AI & Agents `// currently training`
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=E6EAF0"/> <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=FFD400"/> <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=A6FF00"/> <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=A6FF00"/>
+
+---
+
+## `> projects --featured`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ Paddock Space</h3>
+      <p>Formula 1 hub. A data agent collects the 2026 season and feeds a website built on top of it.</p>
+      <img src="https://img.shields.io/badge/DATA_AGENT-0D1117?style=flat-square&logo=probot&logoColor=FFD400"/>
+      <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=E6EAF0"/>
+      <img src="https://img.shields.io/badge/Google_Cloud_VM-0D1117?style=flat-square&logo=googlecloud&logoColor=A6FF00"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-A6FF00?style=flat-square&labelColor=0D1117"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚽ Football Data Agents</h3>
+      <p>Autonomous agents that collect groups, players, stats and fixtures from the UEFA Nations League, FIFA World Cup (since 1930) and UEFA Euro (since 1960) into SQL Server, on a schedule.</p>
+      <img src="https://img.shields.io/badge/DATA_AGENTS-0D1117?style=flat-square&logo=probot&logoColor=FFD400"/>
+      <img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=E6EAF0"/>
+      <img src="https://img.shields.io/badge/Scheduled_Jobs-0D1117?style=flat-square&logo=githubactions&logoColor=A6FF00"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-A6FF00?style=flat-square&labelColor=0D1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Brazil Education Dashboard</h3>
+      <p>Basic education in Brazil: student demographics and proficiency by school stage and network, explored through an interactive map of Brazil with filters.</p>
+      <img src="https://img.shields.io/badge/DASHBOARD-0D1117?style=flat-square&logo=grafana&logoColor=FFD400"/>
+      <img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=E6EAF0"/>
+      <img src="https://img.shields.io/badge/Geo_Data-0D1117?style=flat-square&logo=openstreetmap&logoColor=A6FF00"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-A6FF00?style=flat-square&labelColor=0D1117"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 Portfolio</h3>
+      <p>Personal portfolio and resume, with password-protected areas for individual projects.</p>
+      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=aboutdotme&logoColor=FFD400"/>
+      <img src="https://img.shields.io/badge/Auth-0D1117?style=flat-square&logo=letsencrypt&logoColor=E6EAF0"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-FINAL_STAGE-E6EAF0?style=flat-square&labelColor=0D1117"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> metrics --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-navas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A6FF00&icon_color=FFD400&text_color=E6EAF0&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel-navas&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A6FF00&text_color=E6EAF0"/>
+
+<img src="https://streak-stats.demolab.com?user=miguel-navas&theme=tokyonight&hide_border=true&background=0D1117&ring=A6FF00&fire=FF5A1F&currStreakLabel=A6FF00&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+---
+
+## `> connect --open`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/miguel-fernando-navas-25303628" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6EAF0"/></a>
+<a href="https://github.com/miguel-navas" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFD400"/></a>
+
+```bash
+$ echo "Let's build something intelligent." && sleep 1 && exit 0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6FF00,45:1F6B1C,100:0B1220&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
